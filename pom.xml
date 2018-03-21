@@ -30,8 +30,8 @@
 	</developers>
 
 	<modules>
-
-	</modules>
+    <module>demo-api-a</module>
+  </modules>
 
 	<dependencyManagement>
 		<dependencies>
